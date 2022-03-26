@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hapsarilw
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react & react native
 - 💞️ I’m looking to collaborate on any project on front-end development
 - 📫 If you interested send me an email on hapsari.laksmiw@gmail.com
 
